@@ -1,5 +1,7 @@
 # ackermelt
-This is just the canonical Ackerman function, implemented in Java
+This is just the canonical Ackermann function, implemented in Java
+
+Reference: [Wikipedia: Ackermann Function](https://en.wikipedia.org/wiki/Ackermann_function)
 
 ## Prerequisites
 - JRE 8
